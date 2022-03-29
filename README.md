@@ -9,6 +9,11 @@ Instructor: Dr. Rodney Bartlett
 Test case: Water Molecule   
 File **ZMAT**: Z-matrix input
 
+
+**Integrals** for the calculations are obtained from ACES II program system 
+developed by Quantum Theory Project, University of Florida.
+Source: http://qtp.ufl.edu/Aces/index.shtml
+
 ##### Index
 
 1. Hartree-Fock Self-Consistent Field Method (HF-SCF)    
