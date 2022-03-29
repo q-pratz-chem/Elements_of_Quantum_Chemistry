@@ -1,4 +1,4 @@
-# elements_of_quantum_chemistry
+# Elements of Quantum Chemistry
 
 Repository for codes for methods in electronic structure theory
 
